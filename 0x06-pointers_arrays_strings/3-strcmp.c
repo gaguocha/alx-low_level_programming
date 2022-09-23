@@ -26,12 +26,12 @@ int _strcmp(char *s1, char *s2)
 		/**
 		 * if they differ by a single character
 		 * don't iterate further
- 		*/
+		*/
 		if (s1[i] != s2[i])
 		{
 			/*
 			 * return the difference between
- 			 * the two characters
+			 * the two characters
 			*/
 			r = s1[i] - s2[i];
 			break;
