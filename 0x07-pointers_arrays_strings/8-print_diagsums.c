@@ -8,7 +8,7 @@
  * @size: size of the matrix
  *
  * Return: nothing
- */ 
+ */
 
 void print_diagsums(int *a, int size)
 {
